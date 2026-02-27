@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Khaalidi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👨‍💻 About Me
 
-<!---
-Khaalidi/Khaalidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**FOSS Enthusiast | FreeBSD Beast | Electronics Hobbyist | Maker**
+
+Passionate about open-source software and low-level systems engineering.  
+I explore embedded systems, FPGA design, networking, Linux, DevOps, firewalls, virtualization, and cloud technologies.
+
+From microcontrollers and IoT projects to FreeBSD servers and homelab/data-center labs — I build, break, fix, and share.
+
+🚀 Learning by doing  
+📚 Teaching by sharing
