@@ -16,7 +16,6 @@
 ![ESP32](https://img.shields.io/badge/ESP32-00599C?style=for-the-badge&logo=esp32&logoColor=white)
 ![8051](https://img.shields.io/badge/8051-005F9C?style=for-the-badge&logo=8051&logoColor=white)
 ![MSP430](https://img.shields.io/badge/MSP430-0F5F9C?style=for-the-badge&logo=msp430&logoColor=white)
-
 ![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-00979D?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
