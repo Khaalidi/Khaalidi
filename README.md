@@ -12,6 +12,9 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266?style=for-the-badge&logo=esp8266&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32?style=for-the-badge&logo=esp32&logoColor=white)
+
 ![Xilinx](https://img.shields.io/badge/Xilinx-E01F27?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-00979D?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
