@@ -1,5 +1,11 @@
 
 ## 👨‍💻 About Me
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/freebsd/freebsd-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+</p>
 
 **FOSS Enthusiast | FreeBSD Beast | Electronics Hobbyist | Maker**
 
