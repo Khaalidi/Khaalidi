@@ -16,7 +16,6 @@
 ![FPGA](https://img.shields.io/badge/FPGA-00979D?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-FF6F00?style=for-the-badge)
 
 
 
