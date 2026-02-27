@@ -17,6 +17,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+
+
 **FOSS Enthusiast | FreeBSD Beast | Electronics Hobbyist | Maker**
 
 Passionate about open-source software and low-level systems engineering.  
